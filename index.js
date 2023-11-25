@@ -20,9 +20,9 @@ app.get("/",(req,res)=>{
     res.render("login.ejs");
 });
 
-app.get("/home",(req,res)=>{
-    res.render("home.ejs");
-});
+// app.get("/home",(req,res)=>{
+//     res.render("home.ejs");
+// });
 
 
 
